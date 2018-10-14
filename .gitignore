@@ -59,4 +59,5 @@ typings/
 
 .cache/
 public
+public/
 yarn-error.log
