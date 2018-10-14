@@ -1,5 +1,5 @@
 ---
-path: cherry
+path: /blog/cherry
 date: 2018-10-14T22:48:20.734Z
 title: Cherry
 ---
