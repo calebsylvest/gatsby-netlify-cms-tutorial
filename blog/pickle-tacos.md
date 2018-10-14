@@ -1,5 +1,5 @@
 ---
-path: pickles
+path: /pickles
 date: 2018-10-14T22:09:10.943Z
 title: Pickle Tacos
 ---
