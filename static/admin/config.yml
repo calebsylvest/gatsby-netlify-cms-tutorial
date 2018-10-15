@@ -15,3 +15,12 @@ collections:
       - { name: date, label: Date, widget: date }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
+
+  - name: media
+    label: Media
+    folder: src/media
+    create: true
+    fields:
+      - { name: title, label: Title }
+      - { name: url, label: URL }
+      - { name: thumbnail, label: Thumbnail, widget: image}

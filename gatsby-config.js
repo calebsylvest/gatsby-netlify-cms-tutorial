@@ -8,6 +8,13 @@ module.exports = {
         name: 'markdown-pages',
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/src/media`,
+        name: 'media-items',
+      },
+    },
     `gatsby-transformer-remark`,
   ],
 }
